@@ -16,3 +16,6 @@ This Repository will contain all the necessary resource, scripts and notebooks i
    
 * Day 5 - Training an unknown-label detecting image classifier <br />
   Blog - https://medium.com/mlearning-ai/heres-how-you-should-train-an-intelligent-classifier-model-be705c001fb2
+  
+* Day 6 - Exploring techniques to tran state-of-the-art computer vision model <br />
+

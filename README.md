@@ -30,4 +30,6 @@ This Repository will contain all the necessary resource, scripts and notebooks i
 
 * Day 10 - Pretraining HuggingFace models using PyTorch <br />
   
+* Day 11 - Neural network Regression using tensorflow <br />
+  Blog - <https://www.analyticsvidhya.com/blog/2022/02/approaching-regression-with-neural-networks-using-tensorflow/>
 
